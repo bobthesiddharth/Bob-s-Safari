@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: fantasy;
+}
+h1 {
+  width: 30%;
+  margin: 0 auto 0 auto;
+}
+p {
+  margin-left: 0%;
+}
+.green {
+  color: #9bcf53;
+}
+.green-highlight {
+  position: relative;
+  left: 10px;
+  top: 158px;
+}
+.top-container {
+  background-color: rgb(226, 255, 255);
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.tree-1 {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  bottom: 4px;
+}
+.tree-11 {
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  bottom: 1px;
+  left: 7.8cm;
+}
+.tree-111 {
+  position: absolute;
+  height: 350px;
+  width: 350px;
+  bottom: 1px;
+  left: 0.1cm;
+}
+.tree-2 {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  bottom: 1px;
+  left: 27.5cm;
+}
+.tree-22 {
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  bottom: 1px;
+  left: 30cm;
+}
+.tree-222 {
+  position: absolute;
+  height: 400px;
+  width: 400px;
+  bottom: 1px;
+  left: 29cm;
+}
